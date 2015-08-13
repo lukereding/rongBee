@@ -1,8 +1,3 @@
 # rongBee
 
-this repo stores code associated with using computer vision to identify what honeycomb contains
-
-it is currently in early development
-
-july 2015
-
+This repo stores code associated with using computer vision to identify honeybees in Rong's bee videos. Very much a work in progress.
